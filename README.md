@@ -6,7 +6,7 @@ My background is in quantum engineering, and I am currently completing a graduat
 
 ## Current work
 
-I currently work in the deep-tech materials space, where I lead data science and software efforts and collaborate closely with chemists, physicists, and engineers across research and production.
+I currently work in the deep-tech materials space, where I lead data science and software efforts and collaborate closely with chemists, physicists, and engineers across research and production. I've also been conducting academic research at UChicago over the past few years in Quantum, Neurosciences, and ML.
 
 ## Current focus
 
